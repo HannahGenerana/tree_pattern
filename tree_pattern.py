@@ -1,6 +1,7 @@
 # Exercise 8: Print the following pattern
 
 # pseudocode
+number = int (input("Kindly input any random number: "))
 
 # ask user to input an integer
 
